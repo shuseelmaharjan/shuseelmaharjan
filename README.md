@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shuseel Maharjan</h1>
-<h3 align="center">A passionate programmer from Nepal.</h3>
+<h1 align="center">Hi visitor 👋, I'm Shuseel</h1>
+<h3 align="center">Formerly a student but passionate in programming.</h3>
 
 <img aligh="right" alt="coding" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
