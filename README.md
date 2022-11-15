@@ -1,7 +1,7 @@
 <h1 align="center">Hi visitor 👋, I'm Shuseel</h1>
 <h3 align="center">Formerly a student but passionate in programming.</h3>
 
-<img aligh="right" alt="coding" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img aligh="left" alt="coding" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuseelmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="shuseelmaharjan" /> </p>
 
