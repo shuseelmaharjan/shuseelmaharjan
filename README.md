@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning ** <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>**
 
-- 💬 Ask me about **C, Java, PHP, js, Html, css, Photoshop**
-
-- ⚡ Fun fact **I'm noob programmer.**
+- ⚡**noob programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
