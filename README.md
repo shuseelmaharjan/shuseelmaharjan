@@ -6,9 +6,9 @@
 <h1 align="center">👋 Hi, I'm Shuseel</h1>
 <h3 align="center">A Full Stack Developer building clean, scalable web applications</h3>
 
-<p align="center">
+<!-- <p align="center">
   I enjoy architecting solutions across the entire stack — from intuitive user interfaces crafted with modern React to robust, maintainable backend systems powered by Django.
-</p>
+</p> -->
 
 <p align="center">
   <!-- Interactive Badges: Provides quick, dynamic stats -->
@@ -35,7 +35,6 @@
 <!-- ===== CURRENT FOCUS & STATS ===== -->
 ## 📌 What I'm Up To
 - **Building:** Scalable full-stack applications using **Next.js 14 (App Router)** and **Django REST Framework**.
-- **Designing:** Consistent, accessible UI component systems with **shadcn/ui** and **Mantine**.
 - **Learning:** Advanced system design patterns and DevOps practices.
 
 ## 📊 My GitHub Activity
@@ -46,10 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuseelmaharjan&layout=compact&hide_border=true&theme=radical&langs_count=8" height="165" />
 </p>
 
-<p align="center">
-  <!-- Contribution Graph Snake: A fun, dynamic visual -->
-  <img src="https://raw.githubusercontent.com/shuseelmaharjan/shuseelmaharjan/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contributions" />
-</p>
+<div align="center">
+  <img src="header.svg" alt="Animated Header">
+</div>
 
 ---
 <!-- ===== CONNECT ===== -->
@@ -59,7 +57,7 @@
   <a href="https://www.linkedin.com/in/shuseelmaharjan/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com"> <!-- Replace with your email -->
+  <a href="mailto:maharzanshuseel10@gmail.com"> <!-- Replace with your email -->
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a> &nbsp;&nbsp;
   <a href="https://github.com/shuseelmaharjan">
